@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/sitemap.xml
+Sitemap: https://aditravel.co.il/sitemap.xml

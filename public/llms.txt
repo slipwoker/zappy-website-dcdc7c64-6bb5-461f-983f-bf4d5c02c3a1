@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com
+https://aditravel.co.il
 חבילות נופש משפחתיות בהתאמה אישית עם ליווי צמוד מהיום הראשון. תכנון קפדני, תקציב משתלם וחוויות בלתי נשכחות מחכות לכם. צאו להרפתקה המושלמת עוד היום.
 
 ### שירותים
-https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/services
+https://aditravel.co.il/services
 מחפשים סיורים מודרכים בהתאמה אישית לחו״ל? אצלנו תקבלו ייעוץ נסיעות יוקרתי, חבילות טיסה ומלון זולות וליווי אישי עד לחזרה הביתה. החופשה המושלמת מתחילה כאן.
 
 ### יעדים
-https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/destinations
+https://aditravel.co.il/destinations
 חולמים על טיולי ירח דבש זוגיים או חבילות נופש משפחתיות? גלו יעדים עוצרי נשימה, מחופים טורקיז ועד ערים קסומות. כל יעד נבחר בקפידה כדי להגשים לכם את החלום.
 
 ### איך זה עובד
-https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/how-it-works
+https://aditravel.co.il/how-it-works
 איך מתכננים חבילות נופש משפחתיות בהתאמה אישית? התהליך פשוט: שיחת ייעוץ, התאמת תקציב והזמנה קלה. חוויית נסיעות יוקרתית בלי כאב הראש. התחילו לתכנן עכשיו.
 
 ### צור קשר
-https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/contact
+https://aditravel.co.il/contact
 מוכנים לטיולי ירח דבש זוגיים או סיורים מודרכים בהתאמה אישית לחו״ל? השאירו פרטים ואחזור אליכם עם ההצעות המשתלמות ביותר. החופשה המושלמת במרחק שיחה אחת.
 
 ### תודה רבה - פנייתך התקבלה | Adi Travel
-https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/thank-you
+https://aditravel.co.il/thank-you
 תודה שפנית ל-Adi Travel. פנייתך התקבלה בהצלחה ואנו נחזור אליך בהקדם. אנו מומחים בתכנון חבילות נופש משפחתיות בהתאמה אישית.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/privacy
+https://aditravel.co.il/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/terms
+https://aditravel.co.il/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/accessibility
+https://aditravel.co.il/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -53,8 +53,8 @@ Information about WCAG compliance and accessibility features.
 - Phone (tel): tel:0547960668
 
 ### Contact form
-- URL: https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/contact
-- Endpoint: https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/api/email/contact-form
+- URL: https://aditravel.co.il/contact
+- Endpoint: https://aditravel.co.il/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -84,6 +84,6 @@ Travel & Tourism
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/sitemap.xml
-- Robots: https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/robots.txt
-- Flattened page text (for LLMs): https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/llms-full.txt
+- Sitemap (XML): https://aditravel.co.il/sitemap.xml
+- Robots: https://aditravel.co.il/robots.txt
+- Flattened page text (for LLMs): https://aditravel.co.il/llms-full.txt

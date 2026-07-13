@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com</loc>
+    <loc>https://aditravel.co.il</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/services</loc>
+    <loc>https://aditravel.co.il/services</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/destinations</loc>
+    <loc>https://aditravel.co.il/destinations</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/how-it-works</loc>
+    <loc>https://aditravel.co.il/how-it-works</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/contact</loc>
+    <loc>https://aditravel.co.il/contact</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/thank-you</loc>
+    <loc>https://aditravel.co.il/thank-you</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/privacy</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/terms</loc>
+    <loc>https://aditravel.co.il/privacy</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zappy-site-dcdc7c64-6bb5-461f-983f.onrender.com/accessibility</loc>
+    <loc>https://aditravel.co.il/terms</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://aditravel.co.il/accessibility</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
