@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://adi-travel-dcdc7c64.zappy5.app
+https://example.com
 חבילות נופש משפחתיות בהתאמה אישית עם ליווי צמוד מהיום הראשון. תכנון קפדני, תקציב משתלם וחוויות בלתי נשכחות מחכות לכם. צאו להרפתקה המושלמת עוד היום.
 
 ### שירותים
-https://adi-travel-dcdc7c64.zappy5.app/services
+https://example.com/services
 מחפשים סיורים מודרכים בהתאמה אישית לחו״ל? אצלנו תקבלו ייעוץ נסיעות יוקרתי, חבילות טיסה ומלון זולות וליווי אישי עד לחזרה הביתה. החופשה המושלמת מתחילה כאן.
 
 ### יעדים
-https://adi-travel-dcdc7c64.zappy5.app/destinations
+https://example.com/destinations
 חולמים על טיולי ירח דבש זוגיים או חבילות נופש משפחתיות? גלו יעדים עוצרי נשימה, מחופים טורקיז ועד ערים קסומות. כל יעד נבחר בקפידה כדי להגשים לכם את החלום.
 
 ### איך זה עובד
-https://adi-travel-dcdc7c64.zappy5.app/how-it-works
+https://example.com/how-it-works
 איך מתכננים חבילות נופש משפחתיות בהתאמה אישית? התהליך פשוט: שיחת ייעוץ, התאמת תקציב והזמנה קלה. חוויית נסיעות יוקרתית בלי כאב הראש. התחילו לתכנן עכשיו.
 
 ### צור קשר
-https://adi-travel-dcdc7c64.zappy5.app/contact
+https://example.com/contact
 מוכנים לטיולי ירח דבש זוגיים או סיורים מודרכים בהתאמה אישית לחו״ל? השאירו פרטים ואחזור אליכם עם ההצעות המשתלמות ביותר. החופשה המושלמת במרחק שיחה אחת.
 
 ### תודה רבה - פנייתך התקבלה | Adi Travel
-https://adi-travel-dcdc7c64.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית ל-Adi Travel. פנייתך התקבלה בהצלחה ואנו נחזור אליך בהקדם. אנו מומחים בתכנון חבילות נופש משפחתיות בהתאמה אישית.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://adi-travel-dcdc7c64.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://adi-travel-dcdc7c64.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://adi-travel-dcdc7c64.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://adi-travel-dcdc7c64.zappy5.app/contact
-- Endpoint: https://adi-travel-dcdc7c64.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Travel & Tourism
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://adi-travel-dcdc7c64.zappy5.app/sitemap.xml
-- Robots: https://adi-travel-dcdc7c64.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://adi-travel-dcdc7c64.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
