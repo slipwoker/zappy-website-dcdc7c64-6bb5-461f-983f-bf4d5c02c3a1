@@ -1,0 +1,87 @@
+# Adi Travel — Generative Engine Optimization Map
+
+> Adi Travel is a personal luxury travel consultancy brand offering a bespoke service experience where every client receives individualized attention, budget-matched travel deals, and expert guidance from inquiry to booking. The brand exudes sophistication, trustworthiness, and warmth — positioning Adi as a knowledgeable friend who finds the best deals so clients don't have to. The visual identity leans into aspirational travel imagery — turquoise seas, golden sunsets, world-class hotels — paired with a premium color palette of navy, gold, and white to reinforce exclusivity and professionalism.
+
+---
+
+## Pages
+
+### בית
+https://adi-travel-dcdc7c64.zappy5.app
+חבילות נופש משפחתיות בהתאמה אישית עם ליווי צמוד מהיום הראשון. תכנון קפדני, תקציב משתלם וחוויות בלתי נשכחות מחכות לכם. צאו להרפתקה המושלמת עוד היום.
+
+### שירותים
+https://adi-travel-dcdc7c64.zappy5.app/services
+מחפשים סיורים מודרכים בהתאמה אישית לחו״ל? אצלנו תקבלו ייעוץ נסיעות יוקרתי, חבילות טיסה ומלון זולות וליווי אישי עד לחזרה הביתה. החופשה המושלמת מתחילה כאן.
+
+### יעדים
+https://adi-travel-dcdc7c64.zappy5.app/destinations
+חולמים על טיולי ירח דבש זוגיים או חבילות נופש משפחתיות? גלו יעדים עוצרי נשימה, מחופים טורקיז ועד ערים קסומות. כל יעד נבחר בקפידה כדי להגשים לכם את החלום.
+
+### איך זה עובד
+https://adi-travel-dcdc7c64.zappy5.app/how-it-works
+איך מתכננים חבילות נופש משפחתיות בהתאמה אישית? התהליך פשוט: שיחת ייעוץ, התאמת תקציב והזמנה קלה. חוויית נסיעות יוקרתית בלי כאב הראש. התחילו לתכנן עכשיו.
+
+### צור קשר
+https://adi-travel-dcdc7c64.zappy5.app/contact
+מוכנים לטיולי ירח דבש זוגיים או סיורים מודרכים בהתאמה אישית לחו״ל? השאירו פרטים ואחזור אליכם עם ההצעות המשתלמות ביותר. החופשה המושלמת במרחק שיחה אחת.
+
+### תודה רבה - פנייתך התקבלה | Adi Travel
+https://adi-travel-dcdc7c64.zappy5.app/thank-you
+תודה שפנית ל-Adi Travel. פנייתך התקבלה בהצלחה ואנו נחזור אליך בהקדם. אנו מומחים בתכנון חבילות נופש משפחתיות בהתאמה אישית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://adi-travel-dcdc7c64.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://adi-travel-dcdc7c64.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://adi-travel-dcdc7c64.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://adi-travel-dcdc7c64.zappy5.app/contact
+- Endpoint: https://adi-travel-dcdc7c64.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Adi Travel
+Adi Travel is a personal luxury travel consultancy brand offering a bespoke service experience where every client receives individualized attention, budget-matched travel deals, and expert guidance from inquiry to booking. The brand exudes sophistication, trustworthiness, and warmth — positioning Adi as a knowledgeable friend who finds the best deals so clients don't have to. The visual identity leans into aspirational travel imagery — turquoise seas, golden sunsets, world-class hotels — paired with a premium color palette of navy, gold, and white to reinforce exclusivity and professionalism.
+
+## Target Audience
+- individuals and families looking for personalized travel deals, flights, hotels, and vacation packages
+- מטיילי משפחות בהתאמה אישית
+- מטיילי יוקרה בהתאמה אישית
+- נוסעים בודדים הרפתקנים
+
+## Industry
+Travel & Tourism
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://adi-travel-dcdc7c64.zappy5.app/sitemap.xml
+- Robots: https://adi-travel-dcdc7c64.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://adi-travel-dcdc7c64.zappy5.app/llms-full.txt
