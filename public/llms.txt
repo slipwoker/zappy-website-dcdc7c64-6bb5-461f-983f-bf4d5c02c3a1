@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://example.com
+https://adi-travel.zappy5.app
 חבילות נופש משפחתיות בהתאמה אישית עם ליווי צמוד מהיום הראשון. תכנון קפדני, תקציב משתלם וחוויות בלתי נשכחות מחכות לכם. צאו להרפתקה המושלמת עוד היום.
 
 ### שירותים
-https://example.com/services
+https://adi-travel.zappy5.app/services
 מחפשים סיורים מודרכים בהתאמה אישית לחו״ל? אצלנו תקבלו ייעוץ נסיעות יוקרתי, חבילות טיסה ומלון זולות וליווי אישי עד לחזרה הביתה. החופשה המושלמת מתחילה כאן.
 
 ### יעדים
-https://example.com/destinations
+https://adi-travel.zappy5.app/destinations
 חולמים על טיולי ירח דבש זוגיים או חבילות נופש משפחתיות? גלו יעדים עוצרי נשימה, מחופים טורקיז ועד ערים קסומות. כל יעד נבחר בקפידה כדי להגשים לכם את החלום.
 
 ### איך זה עובד
-https://example.com/how-it-works
+https://adi-travel.zappy5.app/how-it-works
 איך מתכננים חבילות נופש משפחתיות בהתאמה אישית? התהליך פשוט: שיחת ייעוץ, התאמת תקציב והזמנה קלה. חוויית נסיעות יוקרתית בלי כאב הראש. התחילו לתכנן עכשיו.
 
 ### צור קשר
-https://example.com/contact
+https://adi-travel.zappy5.app/contact
 מוכנים לטיולי ירח דבש זוגיים או סיורים מודרכים בהתאמה אישית לחו״ל? השאירו פרטים ואחזור אליכם עם ההצעות המשתלמות ביותר. החופשה המושלמת במרחק שיחה אחת.
 
 ### תודה רבה - פנייתך התקבלה | Adi Travel
-https://example.com/thank-you
+https://adi-travel.zappy5.app/thank-you
 תודה שפנית ל-Adi Travel. פנייתך התקבלה בהצלחה ואנו נחזור אליך בהקדם. אנו מומחים בתכנון חבילות נופש משפחתיות בהתאמה אישית.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://adi-travel.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://adi-travel.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://adi-travel.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -53,8 +53,8 @@ Information about WCAG compliance and accessibility features.
 - Phone (tel): tel:0547960668
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://adi-travel.zappy5.app/contact
+- Endpoint: https://adi-travel.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -84,6 +84,6 @@ Travel & Tourism
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://adi-travel.zappy5.app/sitemap.xml
+- Robots: https://adi-travel.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://adi-travel.zappy5.app/llms-full.txt
